@@ -188,8 +188,9 @@ YOUDARETOFACEMEAGAIN|balth&gt;[FOOLMORTAL]?
 [[back-&gt;ohnoes]] </tw-passagedata><tw-passagedata pid="33" name="ohman" tags="" position="2143.2000122070312,587.7999877929688" size="100,100">(color:&quot;lime&quot;)[If you wish to leave this segment of seven, enter the codes into the SYSTEM...]
 
 (input-box: bind $grbx, &quot;=X=&quot;)
-
-{(live:0.1s)[(if: $grbx is ($gonka+$dis+$ken+$wur))[.htm]]}
+(set: $pleasefortheloveofgodwork to ($gonka+$dis+$ken+$wur))
+[$pleasefortheloveofgodwork]
+{(live:0.1s)[(if: $grbx is $pleasefortheloveofgodwork)[.htm]]}
 
 
 [[back-&gt;ohnoes]] </tw-passagedata></tw-storydata>
