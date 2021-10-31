@@ -1,8 +1,13 @@
 body {
-  background-image: url("ivback.jpg");
+  background-color: #002000;
 }
+
+/* old background at ivback.jpg */
+/* I honestly thought it looked knida garrish */
 
 img {
   display: block;
   margin: auto;
 }
+
+/* probablyananswerforafuturelevel.htm */
