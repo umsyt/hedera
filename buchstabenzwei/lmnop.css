@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+img {
+  display: block;
+  margin: auto;
+  border: 2px solid gray;
+  border-radius: 5px;
+}
+
+p {
+  text-align: center;
+  font: 16px Verdana;
+}
+
+/* there is literally nothing different about the css here :) */
