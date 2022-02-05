@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+}
+
+img {
+  display: block;
+  margin: auto;
+  border: 2px solid gray;
+  border-radius: 5px;
+}
+
+p {
+  text-align: center;
+  font: 16px Verdana;
+}
+
+/* hehe there's a secret somewhere uwu */
+/* you'll have to solve a few levels to be able to find it uwu */
