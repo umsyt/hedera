@@ -21,3 +21,5 @@ function down(k) {
 function up(k) {
     document.getElementById("three").src = "3.jpg";
 };
+
+localStorage.buttonmasher = "7hAnKsb1";
